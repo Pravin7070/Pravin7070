@@ -100,33 +100,43 @@
 
 ### AI & Data Science
 
-<p>
+### 🤖 AI & Data Science
 
-<img src="https://skillicons.dev/icons?i=python,tensorflow"/>
+<p align="left">
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 
 </p>
-
-✔ Pandas
-
-✔ NumPy
-
-✔ Matplotlib
-
-✔ Tableau
-
-✔ Power BI
 
 ---
 
 # 🛠️ Tools
 
-<p>
+<p align="left">
 
 <img src="https://skillicons.dev/icons?i=vscode,git,github,figma,flutter"/>
 
-</p>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
 
-Jupyter Notebook • Canva • Excel • PowerPoint
+<img height="50" src="https://img.icons8.com/color/48/canva.png"/>
+
+<img height="50" src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png"/>
+
+<img height="50" src="https://img.icons8.com/color/48/microsoft-powerpoint-2019--v1.png"/>
+
+</p>
 
 ---
 
@@ -197,9 +207,9 @@ Features
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Pravin7070&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pravin7070&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -209,7 +219,17 @@ Features
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=Pravin7070&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 👀 Profile Views
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Pravin7070&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
 
 </p>
 
@@ -219,7 +239,9 @@ Features
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night"/>
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Pravin7070&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Pravin7070&layout=compact&theme=tokyonight"/>
 
 </p>
 
@@ -239,15 +261,6 @@ Features
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&row=1&column=7"/>
-
-</p>
-
----
 
 # ⚡ Fun Facts
 
