@@ -201,17 +201,6 @@ Features
 
 🏅 Udemy Data Structures using C & C++
 
----
-
-# 📈 GitHub Statistics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Pravin7070&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pravin7070&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
 
 ---
 
@@ -251,9 +240,9 @@ Features
 
 <p align="center">
 
-<a href="https://leetcode.com/YOUR_LEETCODE_USERNAME">
+<a href="https://leetcode.com/u/PRAVIN-1802/">
 
-<img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=baloo&ext=contest"/>
+<img src="https://leetcard.jacoblin.cool/PRAVIN-1802?theme=dark&font=baloo&ext=contest"/>
 
 </a>
 
