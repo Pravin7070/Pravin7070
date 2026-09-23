@@ -1,16 +1,23 @@
 <div align="center">
 
-# Hi there 👋, I'm PRAVIN B
+# 👋 Hi, I'm PRAVIN B
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+%26+Data+Science+Student;Full+Stack+Developer;Competitive+Programmer;400%2B+LeetCode+Problems;Building+AI+Powered+Applications;Always+Learning+New+Technologies"/>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=Pravin7070&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/followers/Pravin7070?label=Followers&style=for-the-badge&color=00C9FF"/>
+
+<img src="https://img.shields.io/github/stars/Pravin7070?label=Stars&style=for-the-badge&color=FFD700"/>
 
 </div>
 
 ---
 
 <img align="right" alt="Coding" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
 ## 🚀 About Me
 
 🎓 B.Tech Artificial Intelligence & Data Science
@@ -19,7 +26,7 @@
 
 📊 Current CGPA **8.51**
 
-💻 Passionate about
+💻 Passionate about:
 
 - Artificial Intelligence
 - Full Stack Development
@@ -27,7 +34,7 @@
 - Data Science
 - Problem Solving
 
-🌱 Currently Learning
+### 🌱 Currently Learning
 
 - MERN Stack
 - Spring Boot
@@ -35,7 +42,7 @@
 - Generative AI
 - System Design
 
-🏆 Achievements
+### 🏆 Achievements
 
 - 🔥 400+ LeetCode Problems
 - ⚡ 1200+ Skillrack Problems
@@ -44,20 +51,20 @@
 
 ---
 
-# 🌐 Connect with Me
+# 🌐 Connect With Me
 
 <p align="left">
 
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+<a href="https://www.linkedin.com/in/pravin-b-0a720b31a/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:pravin.b2024aids@sece.ac.in">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<a href="https://github.com/Pravin7070">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </p>
@@ -66,7 +73,7 @@
 
 # 💻 Tech Stack
 
-### Languages
+### 🧑‍💻 Languages
 
 <p>
 
@@ -74,7 +81,7 @@
 
 </p>
 
-### Frontend
+### 🎨 Frontend
 
 <p>
 
@@ -82,7 +89,7 @@
 
 </p>
 
-### Backend
+### ⚙️ Backend
 
 <p>
 
@@ -90,15 +97,13 @@
 
 </p>
 
-### Database
+### 🗄️ Database
 
 <p>
 
 <img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
 
 </p>
-
-### AI & Data Science
 
 ### 🤖 AI & Data Science
 
@@ -112,7 +117,7 @@
 
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
 
@@ -144,63 +149,65 @@
 
 ## 🌾 AgroClaim
 
-> AI Powered Crop Insurance Platform
+> **AI Powered Crop Insurance Platform**
 
-**Tech Stack**
+### Tech Stack
 
-MERN • Groq Vision AI • MongoDB Atlas • Socket.io
+`MERN` • `Groq Vision AI` • `MongoDB Atlas` • `Socket.io`
 
-✨ Features
+### ✨ Features
 
-- AI Image Damage Detection
-- Government Scheme Integration
-- Officer Dashboard
-- Secure Claim Tracking
-- Bilingual Support
+- 🤖 AI Image Damage Detection
+- 🏛️ Government Scheme Integration
+- 📊 Officer Dashboard
+- 🔐 Secure Claim Tracking
+- 🌐 Bilingual Support
 
 ---
 
 ## 🚦 Smart Traffic Management System
 
-Node.js • Python • YOLOv8 • SUMO
+### Tech Stack
 
-✔ Adaptive Traffic Signals
+`Node.js` • `Python` • `YOLOv8` • `SUMO`
 
-✔ Emergency Vehicle Priority
+### Features
 
-✔ Collision Prevention
-
-✔ Real-Time Dashboard
+- 🚦 Adaptive Traffic Signals
+- 🚑 Emergency Vehicle Priority
+- 🛡️ Collision Prevention
+- 📊 Real-Time Dashboard
 
 ---
 
 ## 👨‍🏫 Peer Tutor Matchmaker
 
-Java • Spring Boot • JavaScript
+### Tech Stack
 
-Features
+`Java` • `Spring Boot` • `JavaScript`
 
-- Tutor Booking
-- Student Portal
-- REST API
-- Authentication
+### Features
+
+- 📅 Tutor Booking
+- 👨‍🎓 Student Portal
+- 🔌 REST API
+- 🔐 Authentication
 
 ---
 
 # 📜 Certifications
 
-🏅 NPTEL DBMS
+🏅 NPTEL — DBMS
 
-🏅 NPTEL Design Thinking
+🏅 NPTEL — Design Thinking
 
-🏅 IIT Bombay C Programming
+🏅 IIT Bombay — C Programming
 
-🏅 IIT Bombay C++
+🏅 IIT Bombay — C++
 
-🏅 Great Learning Power BI
+🏅 Great Learning — Power BI
 
-🏅 Udemy Data Structures using C & C++
-
+🏅 Udemy — Data Structures using C & C++
 
 ---
 
@@ -214,23 +221,23 @@ Features
 
 ---
 
-# 👀 Profile Views
+# 📊 GitHub Statistics
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Pravin7070&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Pravin7070&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pravin7070&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-# 📊 GitHub Activity Graph
+# 📈 GitHub Activity
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Pravin7070&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Pravin7070&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Pravin7070&theme=tokyo-night&hide_border=true"/>
 
 </p>
 
@@ -250,6 +257,32 @@ Features
 
 ---
 
+# 🐍 My Contribution Snake
+
+<p align="center">
+
+<picture>
+
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Pravin7070/Pravin7070/output/github-contribution-grid-snake-dark.svg"
+  />
+
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Pravin7070/Pravin7070/output/github-contribution-grid-snake.svg"
+  />
+
+  <img
+    alt="GitHub contribution snake animation"
+    src="https://raw.githubusercontent.com/Pravin7070/Pravin7070/output/github-contribution-grid-snake.svg"
+  />
+
+</picture>
+
+</p>
+
+---
 
 # ⚡ Fun Facts
 
@@ -261,6 +294,8 @@ Features
 
 📚 Learning something new every day.
 
+💻 Turning ideas into real-world applications.
+
 ---
 
 <div align="center">
@@ -268,6 +303,8 @@ Features
 ## ⭐ Thanks for Visiting!
 
 ### If you like my work, don't forget to ⭐ my repositories.
+
+<br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=120&section=footer"/>
 
